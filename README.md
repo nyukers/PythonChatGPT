@@ -1,4 +1,5 @@
 ## This is an accompanying project of YouTube video about Python automation with ChatGPT
+https://www.youtube.com/watch?v=w-X_EQ2Xva4
 
 #### set environment variable OPENAI_API_KEY before executing python-chatgpt script
     export OPENAI_API_KEY=your-key-here
