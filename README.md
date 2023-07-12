@@ -8,3 +8,5 @@ https://www.youtube.com/watch?v=w-X_EQ2Xva4
     python3 python-chatgpt.py "extract all html headers from a web page, translate to Spanish and save the result into an html file" "extract-translate.py"
 
     python3 python-chatgpt.py "print hello world" "hello-world.py"
+
+P.S.: Zip contains sources for book «OpenAI GPT for Python Developers», published by FAUN – www.faun.dev. Copyright © 2023 All rights reserved, Aymen EL Amri.
